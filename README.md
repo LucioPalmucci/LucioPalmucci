@@ -1,6 +1,6 @@
 # Hola, soy Lucio 👋
 
-Soy desarrollador web con experiencia en tecnologías frontend. Me encanta crear soluciones eficientes y aprender constantemente nuevas herramientas. Actualmente estoy en busqueda de trabajo
+Soy desarrollador web en tecnologías frontend. Me encanta crear soluciones eficientes y aprender constantemente nuevas herramientas. Actualmente estoy en busqueda de trabajo.
 ¡Bienvenido a mi GitHub!
 
 ### Tecnologías que manejo:
