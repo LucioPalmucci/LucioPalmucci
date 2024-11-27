@@ -16,7 +16,7 @@ Soy desarrollador web en tecnologías frontend. Me encanta crear soluciones efic
 
 
 ### Estadísticas de GitHub:
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juan123&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LucioPalmucci&show_icons=true&theme=radical)
 
 ### Conéctate conmigo:
-- [LinkedIn](https://linkedin.com/in/juan123)
+- [LinkedIn](https://linkedin.com/in/lucio-palmucci)
