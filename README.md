@@ -1,9 +1,9 @@
-# Hola, soy Lucio 👋
+#Hello, I'm Lucio 👋
 
-Soy desarrollador web en tecnologías frontend. Me encanta crear soluciones eficientes y aprender constantemente nuevas herramientas. Actualmente estoy en busqueda de trabajo.
-¡Bienvenido a mi GitHub!
+I'm a web developer specializing in frontend technologies. I love creating efficient solutions and constantly learning new tools. I'm currently looking for job opportunities.
+Welcome to my GitHub!
 
-### Tecnologías que manejo:
+###Technologies I work with:
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -15,8 +15,8 @@ Soy desarrollador web en tecnologías frontend. Me encanta crear soluciones efic
 </p>
 
 
-### Estadísticas de GitHub:
+### GitHub stats:
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LucioPalmucci&show_icons=true&theme=radical)
 
-### Conéctate conmigo:
+### Connect with me:
 - [LinkedIn](https://linkedin.com/in/lucio-palmucci)
